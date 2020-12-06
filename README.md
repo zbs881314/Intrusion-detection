@@ -1,4 +1,4 @@
-# Intrusion-detection-network
+# Spiking Neural Networks with Single-Spike Temporal-Coded Neurons for Network Intrusion Detection
 For the NSLKDD dataset, you could downlod from https://www.unb.ca/cic/datasets/nsl.html.  
 For the AWID dataset, you could download from http://icsdweb.aegean.gr/awid/index.html.  
 When you get the dataset, you could preprocess the dataset through reference the paper: M. Lopez-Martin, B. Carro, and A. Sanchez-Esguevillas, “Application
